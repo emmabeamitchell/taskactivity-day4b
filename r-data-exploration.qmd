@@ -4,5 +4,9 @@ author: "Emma Mitchell"
 format: html
 ---
 
+```{r}
+usethis::use_git()
+usethis::use_github()
+```
 
 
